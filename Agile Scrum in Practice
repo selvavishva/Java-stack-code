@@ -1,0 +1,83 @@
+<-------------Values and Principles of agility - Quiz 1---------------->
+
+Q1. Which Agile value is being violated?
+Answer: b) Customer Collaboration over Contract Negotiation
+The team is relying on the contract and taking sign-offs rather than actively collaborating with the customer. Agile values customer collaboration over strictly following contract terms.
+
+Q2. Which represents the Primary Measure of Progress?
+Answer: d) Registration feature which was released to customer's demo
+As per the Agile Manifesto, working software is the primary measure of progress. A feature released to the customer's demo is working software, unlike documentation, architecture, or reviewed code which are intermediate artifacts.
+
+<---------------Prioritization of User Stories - Quiz 1----------------->
+
+Q1. The customer categorizes all the user stories in the product backlog as very important. The scrum master proposes to add a few more teams as and when required to develop the user stories in parallel.
+Answer: b) False
+
+Q2. The customer feels a particular story needs to be developed immediately. However, the development team has concerns on doing it. The Scrum master stops from mentioning it to the customer.
+Answer: b) False
+
+Q3. For a set of user stories, the development team feels that they need to scale up and have concerns on developing it immediately. They place these stories under "High" risk items.
+Answer: a) True
+
+Q4. The customer mentions about a feature that they have in mind, but may not have budget in this quarter to have it developed. The Development team puts this under "Wont have" category.
+Answer: a) True
+
+Q5. The Scrum master forces the team to pick up the story despite the development team's technical incapability.
+Answer: b) False
+
+<------------------Story Point Estimation - Quiz 1-------------------->
+
+Q1. Which option represents the most suitable reason?
+Answer: a) The baseline for the estimation has not been vetted with the customer
+
+Q2. The development team maps effort in hours to story points and uses it across multiple development teams.
+Answer: b) False
+
+Q3. Which statements best describe the need for adoption of story point estimation method?
+Answer:
+
+b) During the initial phase requirements are not clear and the team capabilities may not be known and hence it is difficult to precisely estimate the effort for a user story in hours.
+d) They allow the team to think on just enough things to estimate rather than go into too much detail on the effort part.
+e) Relative estimation with a team helps normalize the estimates.
+Sonnet 4.6Extended
+
+<--------Sprint Planning - Quiz 1------------>
+
+Q1. One of the programmers in a development team splits the user story into task of size 20 hours each. Is this correct?
+Answer: b) False
+
+<-------------Produce Working Software - Quiz 1-------------->
+
+Q1. One of the Scrum teams have created HLD and LLD documents and brought it for sprint review.
+Answer:
+
+a) HLD and LLD documents do not represent working increments.
+c) A skeleton code / wireframes to prove the design represents a working increment.
+
+
+Q2. The sprint burndown chart shows 240 hours pending across 9 days and 0 hours on the 10th day.
+Answer: a) The team members have not updated their work regularly and have updated it on the last day
+
+Q3. What action should the scrum master take if team members do not update task efforts?
+Answer: a) Sensitize and provide mild penalties, check the status before standup meeting
+
+<--------------------Daily Scrum Meeting - Quiz 1--------------------->
+Q1. What could be the reasons for the team member absenting himself from the daily standup meeting?
+Answer:
+a) He has not completed the committed work and hence has nothing to say in the standup meeting
+b) He has committed for a huge task(>12 hrs) and hence his task is in pending state.
+c) He is struggling with the task committed and is not confident of saying it in front of the team.
+d) He is worried that his performance appraisal would be affected if he says his tasks are not complete.
+
+
+Q2. Choose the statements which align to the guidelines of a standup meeting.
+Answer:
+f) Each team member provides answers to the three questions and others listen.
+
+<--------------------Product Backlog Grooming - Quiz 1--------------->
+
+Q1. A scrum team raises an issue that they do not have enough "produce time" in the sprint and that the planning is taking a lot of time. What could be going wrong here?
+Answer: 
+a) The team is not sprinting ahead. They may be grooming stories during sprint planning
+b) PO is not providing timely response to user stories and hence sprint planning is taking long
+c) The product backlog grooming exercise is not happening properly
