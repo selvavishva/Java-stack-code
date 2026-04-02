@@ -1,0 +1,23 @@
+Quiz-1
+Which of the following statements relating to SQL and NoSQL are true?
+->SQL has a relational model.
+->NoSQL databases can have flexible schema.
+Quiz-2
+Which of the following does NOT apply while using key-value stores?
+->Well suited for heavy transactions such as accounting?
+->Not suitable for storing and processing unstructured/semi-structured data.
+Quiz-3
+Choose the most appropriate use of column family stores?
+->Used for logging scenarios.
+->Used to store sparse data.
+Quiz-4:
+There is a massive scale application that needs rich queries over a flexible data model, predictable performance, limitless throughput, and/or global distribution to provide low-latency access to any number of regions over a single data set.
+Choose the most appropriate data model for the given scenario.
+(As a further exercise, list reasons why you chose this and why not each of the other options provided below)?
+->Document-Oriented.
+Quiz-5
+Which of the given scenario is most appropriate for using graph based databases?
+->Describing how a user got from point A to point B.
+Quiz-6
+In view of the CAP theorem, an inventory (stock) management system cannot compromise on which of the following?
+->Consistency
